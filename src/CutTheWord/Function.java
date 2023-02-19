@@ -47,7 +47,10 @@ public class Function {
 		String fileWithExtesionArray  = arr[arr.length-1];
 		String splitName []= fileWithExtesionArray.split("\\.");
 		return fileWithExtesionArray;
-		
+
+
+
+
 	}
 	public String getDisk()
 	{
